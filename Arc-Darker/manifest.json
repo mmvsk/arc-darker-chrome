@@ -1,0 +1,39 @@
+{
+	"name": "Arc-Darker",
+	"description": "Theme designed to fit in horst3180's Arc-Darker GTK theme.",
+	"version": "1",
+	"theme": {
+		"colors": {
+			"frame": [47,52,63],
+			"frame_inactive": [47,52,63],
+			"frame_incognito": [47,52,63],
+			"frame_incognito_inactive": [47,52,63],
+			"toolbar": [245,246,247],
+			"tab_text": [92,97,110],
+			"tab_background_text": [175,184,197],
+			"bookmark_text": [92,97,110],
+			"ntp_background": [255,255,255],
+			"ntp_text": [92,97,110],
+			"ntp_link": [92,97,110],
+			"ntp_section": [92,97,110],
+			"button_background": [47,52,63,1]
+		},
+		"images": {
+			"theme_frame": "images/theme_frame.png",
+			"theme_frame_inactive": "images/theme_frame_inactive.png",
+			"theme_tab_background": "images/theme_tab_background.png",
+			"theme_tab_background_incognito": "images/theme_tab_background.png",
+			"theme_toolbar": "images/theme_toolbar.png",
+			"theme_window_control_background": "images/theme_frame.png"
+		},
+		"tints": {
+			"frame": [ -1, -1, -1 ],
+			"frame_inactive": [ -1, -1, -1 ],
+			"frame_incognito": [ -1, -1, -1 ],
+			"frame_incognito_inactive": [ -1, -1, -1 ]
+		},
+		"properties": {
+		}
+	},
+	"manifest_version": 2
+}
